@@ -12,8 +12,8 @@
 /* Whole document */
 
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    max-width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1700px;
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
@@ -79,6 +79,22 @@ h2:before {
 
 
 /* } */
+
+#content h3 {
+    background: #5B9600;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 0 0 1px #5F5A4B, 1px 1px 6px 1px rgba(10, 10, 0, 0.5);
+    color: #FFFFFF;
+    /* Font family: "Microsoft YaHei", "Tahoma", "boldface", Arial; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    height: 24px;
+    line-height: 20px;
+    margin: 12px 0 !important;
+    padding: 5px 0 5px 10px;
+    text-shadow: 2px 2px 3px #222222;
+}
 
 
 /* Definitions */
